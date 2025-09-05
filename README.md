@@ -18,6 +18,8 @@ Tong Wei *et. al.*, Towards Realistic Long-Tailed Semi-Supervised Learning: Cons
 
 Chengcheng Ma *et. al.*, Three Heads Are Better than One: Complementary Experts for Long-Tailed Semi-supervised Learning, AAAI 2024, [Code Link](https://github.com/machengcheng2016/CPE-LTSSL).
 
+Qianhan Feng *et. al.*, BaCon: Boosting Imbalanced Semi-supervised Learning via Balanced Feature-Level Contrastive Learning, AAAI 2024, [Code Link](https://github.com/yaxinhou/Meta-Expert).
+
 Yaxin Hou *et. al.*, A Square Peg in a Square Hole:  Meta-Expert for Long-Tailed Semi-Supervised Learning, ICML 2025, [Code Link](https://github.com/yaxinhou/Meta-Expert).
 
 
