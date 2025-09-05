@@ -2,7 +2,7 @@
 
 As a benchmark for Semi-Supervised Learning (SSL) and Long-Tailed SSL (LTSSL) algorithms, [USB](https://github.com/microsoft/Semi-supervised-learning) provides a fair and convenient platform for comparing different learning algorithms.
 
-Considering that the official repository of USB has not been updated for a year, we have collected some of the latest algorithms that can already run directly on the USB framework but have not been officially included by USB. For details, please see [1](#1-latest-ssl-algorithms) and [2](#2-latest-ltssl-algorithms).
+We have collected some of the latest algorithms that can already run directly on the USB framework but have not been officially included by USB. For details, please see [1](#1-latest-ssl-algorithms) and [2](#2-latest-ltssl-algorithms).
 
 For those SSL/LTSSL algorithms that cannot be run directly on USB, we have migrated them to the USB framework. The list and usage instructions of these algorithms are shown in [3](#3-algorithms-migrated-to-usb-by-us).
 
